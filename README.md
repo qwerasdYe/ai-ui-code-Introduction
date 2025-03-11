@@ -1,9 +1,8 @@
 # ai-ui-code-Introduction
+https://aiuicode.com/
+## AI UI CODE-Share your UI Code by AI With the World
 
-## AI UI CODE Generate Stunning UI Designs in Minutes, Not Days.
 
-AI UI CODE revolutionizes UI creation with AI-powered generation from html.
-Generate 1500+UI and AI pages, providing the ultimate AI creation experience
-- **AI UI CODE revolutionizes UI creation with AI-powered generation from html.**
-- **Generate 1500+UI and AI pages, providing the ultimate AI creation experience**
+- **AIUICode.com is a community where you can showcase, share, and manage AI-generated UI code.**
+- ** Discover inspiring examples and contribute your own projects.**
 
